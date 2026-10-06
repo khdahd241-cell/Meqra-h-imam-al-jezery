@@ -1,0 +1,12 @@
+{
+  "name": "meqraa-imam-al-jezery",
+  "version": "1.0.0",
+  "description": "مقرأة الإمام الجزري للإقراء والإجازة بالسند",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
